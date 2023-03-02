@@ -16,3 +16,4 @@ Soy Ingeniero En Informática, diplomado en Data Engineer en la Universidad De S
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)]()
 <br/>
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=101010)]()
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=FFFF&labelColor=101010)]()
