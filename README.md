@@ -25,3 +25,5 @@ Soy Ingeniero En Informática, diplomado en Data Engineer en la Universidad De S
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=FFFF&labelColor=101010)](https://www.credly.com/badges/43534895-d6fa-432c-9d17-7ecc4fa7e8ce/public_url)
 
 <h2> :smile: Me puedes encontrar en: </h2>
+
+[![Instagram](https://img.shields.io/badge/Instagram-@p_krypto_zd-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFF&labelColor=101010)](https://www.instagram.com/p_krypto_zd)
