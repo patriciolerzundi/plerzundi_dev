@@ -13,3 +13,6 @@ Soy Ingeniero En Informática, diplomado en Data Engineer en la Universidad De S
 <br/>
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)]()
+<br/>
+[![Apache Airflow](https://img.shields.io/badge/ApacheAirflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=101010)]()
