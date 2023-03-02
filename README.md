@@ -27,3 +27,5 @@ Soy Ingeniero En Informática, diplomado en Data Engineer en la Universidad De S
 <h2> :smile: Me puedes encontrar en: </h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-@p_krypto_zd-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFF&labelColor=101010)](https://www.instagram.com/p_krypto_zd)
+<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patricio_Lerzundi-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFF&labelColor=101010)](https://www.linkedin.com/in/patricio-lerzundi-2a1b75136)
