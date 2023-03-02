@@ -20,5 +20,6 @@ Soy Ingeniero En Informática, diplomado en Data Engineer en la Universidad De S
 <br/>
 [![Maria DB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=FFFF&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFF&labelColor=101010)]()
+[![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFF&labelColor=101010)]()
 <br/>
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=FFFF&labelColor=101010)](https://www.credly.com/badges/43534895-d6fa-432c-9d17-7ecc4fa7e8ce/public_url)
