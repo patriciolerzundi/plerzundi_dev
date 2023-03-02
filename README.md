@@ -12,3 +12,4 @@ Soy Ingeniero En Informática, diplomado en Data Engineer en la Universidad De S
 [![Google](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010)](https://www.cloudskillsboost.google/public_profiles/9828a00e-600a-4b42-aced-15a9b65bd3ed)
 <br/>
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=101010)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
