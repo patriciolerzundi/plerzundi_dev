@@ -9,3 +9,4 @@ Soy Ingeniero En Informática, diplomado en Data Engineer en la Universidad De S
 [![Jupiter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=orange&labelColor=101010)]()
 <br/>
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![Google](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010)]()
